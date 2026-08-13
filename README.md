@@ -86,6 +86,8 @@ python mcnemar-test.py
 - **Code** (scripts, notebooks): [MIT License](https://opensource.org/licenses/MIT)
 - **Dataset and annotation materials** (`dataset/`, `annotators/`): [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - sharing and adaptation permitted with attribution, for **non-commercial use only**, under the same license.
 
+   > **Note:** While the paper is under peer review, please treat the dataset and annotation materials as provided for review/reproducibility purposes only. Broader reuse, redistribution, or citation is welcome once the paper is accepted and published.
+
 ## Authors
 
 Prakash Poudyal, Nischal Karki, Amrit Dahal, Rajani Chulyadyo, Sameer Tamrakar, and Bal Krishna Bal
