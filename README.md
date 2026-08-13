@@ -91,7 +91,6 @@ python mcnemar-test.py
 ## Authors
 
 Prakash Poudyal, Nischal Karki, Amrit Dahal, Rajani Chulyadyo, Sameer Tamrakar, and Bal Krishna Bal
-Information and Language Processing Research Lab, Kathmandu University, Nepal
 
 ## Acknowledgments
 
