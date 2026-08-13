@@ -45,8 +45,7 @@ These files are consumed by the script in `mcnemar-test/` to compute pairwise st
 
 ## Setup
 
-**Requirements:** Python 3.13.11 (as used in the reported experiments). No additional GPU/CUDA or OCR tool installation is required to reproduce the statistical testing pipeline in this repository.
-
+**Requirements:** Python 3.13.11 (as used in the reported experiments). 
 ```bash
 pip install -r requirements.txt
 ```
