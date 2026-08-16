@@ -2,7 +2,7 @@
 
 **Status:** Under review at *Natural Language Processing* (Cambridge University Press)
 
-This repository contains the dataset, annotation materials, source code, and experiments for our study on **Election Commitment Mining** - a task that identifies and structures political commitments made by electoral candidates and parties in Nepali political texts. We benchmark machine learning, deep learning, and large language models to automatically classify statements as **Commitment (C)** or **Non-Commitment (NC)**.
+This repository contains the dataset, annotation materials, source code, and experiments for our study on **Election Commitment Mining** - a task that identifies and structures electoral commitments made by electoral candidates and parties in Nepali political texts. We benchmark machine learning, deep learning, and large language models to automatically classify statements as **Commitment (C)** or **Non-Commitment (NC)**.
 
 ## Repository Structure
 
@@ -18,7 +18,7 @@ This repository contains the dataset, annotation materials, source code, and exp
 ```
 
 ### `annotators/`
-Contains the annotation guidelines used to define and label political commitments, along with the sheets from the three reviewers involved in the annotation and adjudication process.
+Contains the annotation guidelines used to define and label electoral commitments, along with the sheets from the three reviewers involved in the annotation and adjudication process.
 
 ### `dataset/`
 Contains the gold-standard dataset split into **train** and **test** sets, provided in `.xlsx` format. Each instance is a sentence extracted from Nepali political texts, labeled as either Commitment (C) or Non-Commitment (NC).
